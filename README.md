@@ -1,2 +1,4 @@
-# EDA-Project-On-Telecom-Industrty
-This project performs Exploratory Data Analysis (EDA) on telecom customer data to uncover key factors driving customer churn.
+# EDA on Telecom Industry Customer Data
+
+## Objective
+The primary objective of this project is to analyze customer churn in the telecom industry by exploring various factors such as demographics, service usage, and payment behavior. Through data visualization, we aim to identify key drivers of customer churn and provide actionable insights for retention strategies.
